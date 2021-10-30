@@ -3,7 +3,7 @@
 <!--
 **hemant224/hemant224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###Hi, I am Hemant Kumar 👨‍💻
+### Hi, I am Hemant Kumar 👨‍💻
 
 I am a Automation Test Specialist and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
 
@@ -34,8 +34,8 @@ Here are a few things I've picked up along my learning journey.
  ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/adnanazmee) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AzmeeAdnan) || [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/adnanazmee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/adnanazmee) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@HemantK10888826) || [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hemant224)
 
 
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+ or give some ♥ on [mail](mailto:hemant.41073@gmail.com) .
 
