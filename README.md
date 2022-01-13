@@ -5,7 +5,7 @@
 -->
 ### Hi, I am Hemant Kumar 👨‍💻
 
-I am a Automation Test Specialist and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
+I am a Automation Test Manager and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
 
 
 
